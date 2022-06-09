@@ -13,6 +13,6 @@ A monitoria com alunos do 6 semestre com dependencia nas disciplinas do 2 semest
 aos monitores suas duvidas. 
 
 Conselho para professores que tiverem alunos monitores: 
-introduzi-lo juntamente à equipe para fazer com que eles vejam que os monitores 
-fazem parte da equipe mas sem colocar a mão no codigo, mas auxiliando e 
-mostrando o caminho para os integrantes da API em suas duvidas.  
+introduzi-lo desde o inicio juntamente à equipe para fazer com que eles vejam que os monitores 
+fazem parte da equipe mas sem colocar a mão no codigo, mas auxiliando e mostrando o caminho 
+para os integrantes da API em suas duvidas.  
