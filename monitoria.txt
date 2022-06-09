@@ -1,0 +1,18 @@
+Auxilio aos alunos de API - 2 semestre  
+
+Questões resolvidas com os alunos:
+- Perguntas sobre desenvolvimento de tela
+- Como fazer uma busca no banco de dados
+- Como inserir typ int em list string
+- Ligação de tabelas com chave estrangeira
+- Como zerar o incremento na tabela 
+- reabrir mensagens do chat
+
+A monitoria com alunos do 6 semestre com dependencia nas disciplinas do 2 semestre
+é algo recente, devido a isso, muitos alunos ainda estão receiosos de perguntarem
+aos monitores suas duvidas. 
+
+Conselho para professores que tiverem alunos monitores: 
+introduzi-lo juntamente à equipe para fazer com que eles vejam que os monitores 
+fazem parte da equipe mas sem colocar a mão no codigo, mas auxiliando e 
+mostrando o caminho para os integrantes da API em suas duvidas.  
